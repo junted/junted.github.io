@@ -1,5 +1,5 @@
 # Blog Post
 ## My first Blog Post
-Post1 \n
+Post1 
 Post2
 Post3
